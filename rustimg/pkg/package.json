@@ -1,0 +1,17 @@
+{
+  "name": "rustimg",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "rustimg_bg.wasm",
+    "rustimg.js",
+    "rustimg_bg.js",
+    "rustimg.d.ts"
+  ],
+  "main": "rustimg.js",
+  "types": "rustimg.d.ts",
+  "sideEffects": [
+    "./rustimg.js",
+    "./snippets/*"
+  ]
+}
