@@ -1,7 +1,7 @@
 <p align="center">
   <span>
    简体中文 |
-   <a href="https://github.com/akazwz/worker-image/blob/main/README.md">English</a>
+   <a href="https://github.com/akazwz/image-worker/blob/main/README.md">English</a>
   </span>
 <p>
 <br />
